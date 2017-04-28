@@ -1,0 +1,7 @@
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\pojo\Order.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\service\OrderService.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientSingle.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\dao\impl\JedisClientCluster.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\controller\OrderController.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\dao\JedisClient.java
+E:\do\demo\项目代码-taotao\taotao-order\src\main\java\com\taotao\order\service\impl\OrderServiceImpl.java
